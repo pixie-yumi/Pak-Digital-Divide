@@ -24,8 +24,7 @@ access_chart = access_df.pivot(index="region", columns="group",values="value 202
 st.bar_chart(access_chart, stack=False)
 
 st.subheader("Key Takeaway")
-st.write("""
-The data tells a clear story: Pakistani women aren't excluded from the internet because 
+st.write("""The data tells a clear story: Pakistani women aren't excluded from the internet because 
 they don't want to use it or don't know how. They're excluded because they don't own the 
 device in the first place. Once a woman gets access, by any means, she uses it as much as 
 men do, and in cities, more. The real gap is ownership, not skill.
@@ -37,5 +36,4 @@ of the digital economy that phone ownership would unlock.
 
 If this data were used to guide anything, it wouldn't be another "digital literacy" workshop. 
 It would be getting rural women their own phones, paired with access to mobile banking, since 
-ownership alone opens the door to both connectivity and financial inclusion at once.
-""")
+ownership alone opens the door to both connectivity and financial inclusion at once.)
