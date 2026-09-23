@@ -1,0 +1,22 @@
+indicator,group,region,value 2024-25,value 2018-19
+mobile ownership,male,national,69,64
+mobile ownership,female,national,31,26
+mobile ownership,male,urban,73,72
+mobile ownership,female,urban,43,38
+mobile ownership,male,rural,66,60
+mobile ownership,female,rural,24,19
+internet use,male,national,57,21
+internet use,female,national,57,13
+internet use,male,urban,67,33
+internet use,female,urban,71,24
+internet use,male,rural,51,14
+internet use,female,rural,48,6
+internet access,household,urban,82,51
+internet access,household,rural,61,24
+smartphone access,household,urban,98,98
+mobile/smartphone access,household,rural,95,93
+laptop/computer/tablet access,household,urban,16,27
+laptop/computer/tablet access,household,rural,7,7
+bank account,overall,national,12,
+mobile money,overall,national,9,
+no account,overall,national,76,
