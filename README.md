@@ -28,4 +28,4 @@ Live dashboard: https://pak-digital-divide-24-25.streamlit.app
 
 The full report covers education, health, housing, food security, way more than digital access alone. I picked four indicators (mobile ownership, internet use, household access, financial inclusion) that build on each other: who owns a device, who actually uses it, whose home has a connection, and what that unlocks financially.
 
-Province-level breakdown is the natural next step if I take this further.
+Province-level breakdown is the natural next step. Right now this shows the national picture, that's the version I'd build next.
