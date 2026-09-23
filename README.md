@@ -1,6 +1,6 @@
 # Pakistan's Digital Gender Divide
 
-A small data analysis project I built while applying to the UNDP Digital, AI and Innovation Hub internship. I wanted to look at something real and current, not another Titanic dataset, so I dug into Pakistan's own government survey data on internet and mobile phone access.
+A small data analysis project I built because I wanted to look at something real and current, not another Titanic dataset, so I dug into Pakistan's own government survey data on internet and mobile phone access.
 
 ## What I found
 
