@@ -1,6 +1,6 @@
 # Pakistan's Digital Gender Divide
 
-A small data analysis project I built because I wanted to look at something real and current, not another Titanic dataset, so I dug into Pakistan's own government survey data on internet and mobile phone access.
+A small data analysis project where I wanted to work with something real and current, so I dug into Pakistan's own government survey data on internet and mobile phone access.
 
 ## What I found
 
